@@ -19,7 +19,9 @@ Hospitals and research teams can use these outputs to perform post-hoc audits, e
 
 <p>Keywords : Model quantization,  LLM inference,  Clinical natural language processing (Clinical NLP),  Model-loading strategies, Inference efficiency & telemetry </p>
 
-<p>Original Article Link: </p>
+    <p>Oluwatobi Owoeye M., et al. 2025, Robust Model Loading and Quantization Strategies for Efficient Clinical LLM Inference: Engineering Lessons from the CURE-Bench Pipeline, Handsonlabs Software Academy, Initial Paper Release</p>
+
+<p>Original Article Link: https://handsonlabs.org/robust-model-loading-and-quantization-strategies-for-efficient-clinical-llm-inference-engineering-lessons-from-the-cure-bench-pipeline/?v=c6a82504ceeb </p>
 
 <p>
   <img width="1430" height="1193" alt="Fig  1 1  CURE-Bench Comprehensive Medical AI Evaluation Dashboard" src="https://github.com/user-attachments/assets/dcddb60f-5a11-4712-970f-833c8858f430" />
