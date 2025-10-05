@@ -18,6 +18,7 @@ Our results indicate that carefully applied 4-bit quantization together with for
 Hospitals and research teams can use these outputs to perform post-hoc audits, ensure reproducible deployments, and guide model selection under real-world constraints, thereby accelerating safe translation of LLMs into clinical workflows effectively.</p>
 
 <p>Keywords : Model quantization,  LLM inference,  Clinical natural language processing (Clinical NLP),  Model-loading strategies, Inference efficiency & telemetry </p>
+<h1>How to Cite</h1>
 <p>
 
     Oluwatobi Owoeye M., et al. 2025, Robust Model Loading and Quantization Strategies for Efficient Clinical LLM Inference: Engineering Lessons from the CURE-Bench Pipeline, Handsonlabs Software Academy, Initial Paper Release
